@@ -1,5 +1,5 @@
 # Causality
-This repository provides implemented algorithms for causal inference between two variables and learning causal structures in graphs. All code is written in Python 3, using SciPy, NumPy, scikit-learn, Hyppo, and NetworkX. Jupyter notebooks are provided to show analyses.
+This repository provides implemented algorithms for causal inference between two variables and learning causal structures in graphs. All code is written in Python 3, using SciPy, NumPy, Scikit-learn, Hyppo, and NetworkX. Jupyter notebooks are provided to show analyses.
 
 **Note**: These are implemented algorithms and study for assignments of [Causal Inference](http://sina.sharif.ir/~saleh/CI.pdf) taught by Prof. Salehkalyebar in Fall 2020. *This repository is in its early phases*.
 
@@ -11,7 +11,7 @@ This repository provides implemented algorithms for causal inference between two
 * Python 3.6.5
     * NumPy 1.14.3
     * SciPy 1.5.4
-    * scikit-learn 0.23.2
+    * Scikit-learn 0.23.2
     * Hyppo 0.1.3
     * NetworkX 2.5
     
