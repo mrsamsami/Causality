@@ -4,6 +4,8 @@ This repository provides implemented algorithms for causal inference between two
 **Note**: These are implemented algorithms and study for assignments of [Causal Inference](http://sina.sharif.ir/~saleh/CI.pdf) taught by Prof. Salehkalyebar in Fall 2020. *This repository is in its early phases*.
 
 ## Table of Contents
+- [Causal Inference Between Two Variables](Causal%20Inference%20Between%20Two%20Variables.ipynb)
+- [Learning Causal Skeleton in Multivariate Setting](Learning%20Causal%20Skeleton%20in%20Multivariate%20Setting.ipynb)
 
 ## Environment Requirement
 * Python 3.6.5
