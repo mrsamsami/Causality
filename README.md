@@ -19,9 +19,9 @@ This repository provides implemented algorithms for causal inference between two
 **Class**:
 - [Causal Inference (Sharif, Fall 2020)](http://sina.sharif.ir/~saleh/CI.pdf)
 
-**Textbook**:
+**Textbooks**:
 - [Elements of Causal Inference: Foundations and Learning Algorithms (2018)](https://mitpress.mit.edu/books/elements-causal-inference)
 - [Causality: Models, Reasoning and Inference (2009)](http://bayes.cs.ucla.edu/BOOK-2K)
 
-**Papers**:
+**Paper**:
 - [A linear non-gaussian acyclic model for causal discovery (2006)](http://www.jmlr.org/papers/volume7/shimizu06a/shimizu06a.pdf)
