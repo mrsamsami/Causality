@@ -6,6 +6,7 @@ This repository provides implemented algorithms for causal inference between two
 ## Table of Contents
 - [Causal Inference Between Two Variables](Causal%20Inference%20Between%20Two%20Variables.ipynb)
 - [Learning Causal Skeleton in Multivariate Setting](Learning%20Causal%20Skeleton%20in%20Multivariate%20Setting.ipynb)
+- [Calculating Size of the Markov Equivalence Class](MEC%20Size%20Calculator.py)
 
 ## Environment Requirement
 * Python 3.6.5
